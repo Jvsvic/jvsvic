@@ -34,9 +34,10 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="8" />
-  <!-- Ícone do Excel alternativo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" height="25" alt="excel logo" />
+  <!-- Ícone do Microsoft Office como alternativa -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" height="25" alt="microsoft logo" />
 </div>
+
 
 #
 
