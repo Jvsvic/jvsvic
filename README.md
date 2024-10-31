@@ -34,10 +34,9 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
   <img width="8" />
-  <!-- Ícone do Excel como SVG -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Excel_2019_logo.svg" height="25" alt="excel logo" />
+  <!-- Ícone do Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-excel.svg" height="25" alt="excel logo" />
 </div>
-
 
 
 #
