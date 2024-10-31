@@ -11,7 +11,8 @@
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na FAM. Atualmente trabalho com Banco de Dados e estudo Python paralelamente. 
  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-
+  
+#
 
 <img align="right" alt="" height="190px" src="./2ee88bf78e4f76001f59bad5e91a6a03.gif">
 
