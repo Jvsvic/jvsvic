@@ -32,7 +32,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25" alt="mysql logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo" />
+  <img src="https://img.shields.io/badge/docker-%23049EBC.svg?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="docker logo" />
   <img width="8" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" alt="python logo" />
   <img width="8" />
