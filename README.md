@@ -13,7 +13,7 @@
  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./2ee88bf78e4f76001f59bad5e91a6a03.gif">
 
 <h3 align="left">Connect with me!</h3>
 
