@@ -18,11 +18,26 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=mail&logoColor=FF00F6&color=FFF)](mailto:vitor-oliveira001@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/jvsvic/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com/jvsvic/)
+<style>
+  .badge {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .badge:hover {
+    background-color: #FF00F6; /* Cor ao passar o mouse */
+    transform: scale(1.05); /* Aumenta ligeiramente o tamanho */
+  }
+</style>
 
-
+<a href="mailto:vitor-oliveira001@hotmail.com" class="badge">
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=mail&logoColor=FFF" alt="E-mail" />
+</a>
+<a href="https://www.linkedin.com/in/jvsvic/" class="badge">
+  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/jvsvic/" class="badge">
+  <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF" alt="Instagram" />
+</a>
 
 <h3 align="left">My Stack ~</h3>
 
