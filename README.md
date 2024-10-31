@@ -18,9 +18,17 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=mail&logoColor=FF00F6&color=FFF)](mailto:vitor-oliveira001@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/jvsvic/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com/jvsvic/)
+<a href="mailto:vitor-oliveira001@hotmail.com">
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&color=FFF" alt="E-mail" />
+  <img src="https://img.icons8.com/material-outlined/24/FF00F6/envelope.png" alt="Envelope Icon" style="vertical-align: middle; margin-left: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/jvsvic/">
+  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/jvsvic/">
+  <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF" alt="Instagram" />
+</a>
+
 
 
 
